@@ -2,7 +2,7 @@
 
 in google_earth folder : 
 Basic of gee : 
- * hello_earth.py : hello world but for GEE : Land cover, elevation and temperature around brussels
+ * hello_earth.py : basics for GEE : Land cover, elevation and temperature around brussels
  * bruxelles_temp.ipynb : same but in notebook
 
 utils files : 
